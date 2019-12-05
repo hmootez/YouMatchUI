@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "849999105643",
+    "firebase_url": "https://meetmenow-8a49f.firebaseio.com",
+    "project_id": "meetmenow-8a49f",
+    "storage_bucket": "meetmenow-8a49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849999105643:android:d6e7863579557cc227ab2e",
+        "android_client_info": {
+          "package_name": "com.youmatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849999105643-9a9huupbpidmsv90e7ndn3tjkqg5rdfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youmatch",
+            "certificate_hash": "b9c191941f9cd2ca647e852d0f04a04a8bfbda8d"
+          }
+        },
+        {
+          "client_id": "849999105643-hbc6351r1u2j56maddjqkv70munen2b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfS_GaN-Td_mxqSu9XTdKMZHcgA0fmX0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849999105643-hbc6351r1u2j56maddjqkv70munen2b7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849999105643-9moqq2hsleohs4t5s1ng01turl8jd5kg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.youngthinkers.meetmenow"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849999105643:android:4273fc8f69f34973",
+        "android_client_info": {
+          "package_name": "com.youngthinkers.meetmenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849999105643-5a967h8ht82n82l5litgmjohh466656g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youngthinkers.meetmenow",
+            "certificate_hash": "b9c191941f9cd2ca647e852d0f04a04a8bfbda8d"
+          }
+        },
+        {
+          "client_id": "849999105643-uatmbq48gvg57m046tkb2bft2ftsgpr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youngthinkers.meetmenow",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "849999105643-hbc6351r1u2j56maddjqkv70munen2b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfS_GaN-Td_mxqSu9XTdKMZHcgA0fmX0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849999105643-hbc6351r1u2j56maddjqkv70munen2b7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849999105643-9moqq2hsleohs4t5s1ng01turl8jd5kg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.youngthinkers.meetmenow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
