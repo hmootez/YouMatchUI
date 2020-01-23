@@ -1,0 +1,1899 @@
+{
+  "kind": "youtube#activityListResponse",
+  "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TY2xMKxhfaaS5rgWcj3mqYt-bc8\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 107,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wQszVi_LRb0MZVDc3NWuL5cQmSc\"",
+      "id": "MTMxNTc1OTM4NzcyNDkzNDI1NzI1MDEyMDA=",
+      "snippet": {
+        "publishedAt": "2019-12-10T00:46:12.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-Ti3dXC1IryY/AAAAAAAAAAI/AAAAAAAAAAA/3Tw1RVt_2IE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-Ti3dXC1IryY/AAAAAAAAAAI/AAAAAAAAAAA/3Tw1RVt_2IE/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-Ti3dXC1IryY/AAAAAAAAAAI/AAAAAAAAAAA/3Tw1RVt_2IE/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "The World of Boxing!",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCAaZm4GcWqDg8358LIx3kmw"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/64rZCUSzTE3vpV6Hr1rEn0UMmTA\"",
+      "id": "NDIxNTc1NjM1NjY4NDkzNDI2NTEwNTQzNTI=",
+      "snippet": {
+        "publishedAt": "2019-12-06T12:34:28.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "Worakls Orchestra live @ Château La Coste for Cercle",
+        "description": "Worakls Orchestra playing an exclusive concert at Château La Coste for Cercle.\nSubscribe our channel for more videos: http://bit.ly/2BINQUh\nSubscribe our Spotify playlist: https://Cercle.lnk.to/Spotifyplaylist/\n\n☞ Worakls Orchestra\nhttps://www.facebook.com/worakls/\nhttps://open.spotify.com/playlist/2qj69nv8q4LRBA3ad5vLvL\n\nVideo credits:\n\nArtists: Worakls Orchestra (Fourvière's Orchestra)\nVenue: Château La Coste\nProduced by Cercle\nExecutive producers: Philippe Tuchmann & Derek Barbolla\nFilm directed by: Pol Souchier & Derek Barbolla\nDirectors of photography: Mathieu Glissant, Sophie Oddo, Haytham Omar & Houssam Omar\nSound engineer: Bertrand Maniquaire & Timothée Renard \nMix: Kevin Rodrigues (Worakls)\nSound mastering: Michel Avannier\nDrone: Alexis Olas \nCrane: Jerome Verney\nColor grading: Aurélien Moisan\n__\n\nSpecial thanks to Marie Rozet from Château La Coste and all the musicians from Fourvière's Orchestra.\n\n______\n\nThis artistic performance has been recorded live. \n\nFollow us on http://www.cercle.live",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QRQwZDWz1Pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QRQwZDWz1Pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QRQwZDWz1Pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QRQwZDWz1Pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QRQwZDWz1Pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QRQwZDWz1Pw"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JBWXDn8DIu4d-LuhnDYE034gvX0\"",
+      "id": "MTMxNTc0NDc2NTUzNDkzNDI2NTEwNTUzMTI=",
+      "snippet": {
+        "publishedAt": "2019-11-23T02:35:53.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-i69K4hBkLTM/AAAAAAAAAAI/AAAAAAAAAAA/Jtsif88T7E0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-i69K4hBkLTM/AAAAAAAAAAI/AAAAAAAAAAA/Jtsif88T7E0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-i69K4hBkLTM/AAAAAAAAAAI/AAAAAAAAAAA/Jtsif88T7E0/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Marc Rebillet",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCXgxNzAgZ1GExhTW4X1mUrg"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/R5wbJG9QrQbKS8NH-ILq1tBfeiE\"",
+      "id": "MTMxNTc0Mjc1OTE4NDkzNDI1NzM3NDYxMjg=",
+      "snippet": {
+        "publishedAt": "2019-11-20T18:51:58.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-ph1w11l-wG4/AAAAAAAAAAI/AAAAAAAAAAA/hEnAAWIen9I/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-ph1w11l-wG4/AAAAAAAAAAI/AAAAAAAAAAA/hEnAAWIen9I/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-ph1w11l-wG4/AAAAAAAAAAI/AAAAAAAAAAA/hEnAAWIen9I/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Cercle",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCPKT_csvP72boVX0XrMtagQ"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z18hyyYHda9ln5Rlwin-NW0-y6g\"",
+      "id": "NDIxNTc0MDA3ODM2NDkzNDI1NzM3NDgwNDg=",
+      "snippet": {
+        "publishedAt": "2019-11-17T16:23:56.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "HVOB live @ Copa del Sol (Careyes)",
+        "description": "HVOB playing an exclusive live set at Copa del Sol in Careyes (Jalisco, Mexico) for Cercle\n☞ Subscribe our channel for more videos: http://bit.ly/2BINQUh\n☞ Subscribe our Spotify playlist: https://Cercle.lnk.to/Spotifyplaylist/\n\n☞ HVOB\nhttps://www.facebook.com/HVOBMUSIC/\nhttps://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa\n\nVideo credits:\n\nArtists: HVOB\nVenue: Copa del Sol (Careyes)\nProduced by Cercle\nExecutive producers: Philippe Tuchmann & Derek Barbolla\nFilm directed by: Pol Souchier & Derek Barbolla\nDirectors of photography: Jérémie Tridard & Mickaël Fidjili\nDrone pilot: Alexis Olas\nStage manager: Aaron Kometa\nSound engineer:  Paul HVOB\nSound mix & mastering: Paul Wallner\nPost-production: Mathieu Glissant / Saison Unique Production\n\n--\nSpecial thanks to Filippo Brignone and Gian Franco Brignone for allowing us to shoot this show Careyes, a mesmerizing place they created, situated in Jalisco, Mexico. \nAlso special thanks to Lulu Luchaire from Ondalinda, an amazing festival happening in Careyes. \n\nThis artistic performance has been recorded live. \n\n______\n\nFollow us on http://www.cercle.live",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XxSmY7VNaCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XxSmY7VNaCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XxSmY7VNaCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XxSmY7VNaCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XxSmY7VNaCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "XxSmY7VNaCk"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/I5fap_HE1Xmtuio8CkWgLcW6nik\"",
+      "id": "NDIxNTczODIxNTgyNDkzNDI1NzM3NDU4MDg=",
+      "snippet": {
+        "publishedAt": "2019-11-15T12:39:42.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "Key & Peele - High On Potenuse",
+        "description": "A student in math class tries to take back credit for a hilarious joke on the word \"hypotenuse\" after his friend steals it.\n\nAbout Key & Peele: \nKey & Peele showcases the fearless wit of stars Keegan-Michael Key and Jordan Peele as the duo takes on everything from “Gremlins 2” to systemic racism. With an array of sketches as wide-reaching as they are cringingly accurate, the pair has created a bevy of classic characters, including Wendell, the players of the East/West Bowl and President Obama’s Anger Translator.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k1tsGGz-Qw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k1tsGGz-Qw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k1tsGGz-Qw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k1tsGGz-Qw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k1tsGGz-Qw0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "k1tsGGz-Qw0"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cvjSmXoZke9jQdtI-GHIDJCU7XM\"",
+      "id": "MTMxNTczODIxNTc3NDkzNDI2NTE5ODI1NDQ=",
+      "snippet": {
+        "publishedAt": "2019-11-15T12:39:37.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-ios1OK1LQyc/AAAAAAAAAAI/AAAAAAAAAAA/1lJALaYer2c/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-ios1OK1LQyc/AAAAAAAAAAI/AAAAAAAAAAA/1lJALaYer2c/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-ios1OK1LQyc/AAAAAAAAAAI/AAAAAAAAAAA/1lJALaYer2c/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Comedy Central",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCUsN5ZwHx2kILm84-jPDeXw"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aJuEungb_IexQVwLuVv1U3PBB-I\"",
+      "id": "NDIxNTczNzcxNTYxNDkzNDI2NTE5ODM3NjA=",
+      "snippet": {
+        "publishedAt": "2019-11-14T22:46:01.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "Podcast: « Le jour où j'ai eu le cadavre de Kadhafi à mes pieds », par Alfred de Montesquiou",
+        "description": "#ParisMatchStories En 2011, Alfred de Montesquiou grand reporter à Paris Match est envoyé en Libye pour couvrir la chute de Mouammar Kadhafi. Dans le premier épisode de \"Paris Match Stories\", produit par Europe 1 Studio, il raconte le jour où il a vu le cadavre du Raïs à ses pieds et son enquête pour trouver qui l'a tué. \n\nCelui qu'on surnommait le Raïs a régné pendant plus de 40 ans sur la Libye, il a martyrisé son peuple, torturé ses opposants et violé leurs filles. Le 19 octobre 2011, informé par ses contacts en Libye que le dictateur aurait été arrêté, Alfred de Montesquiou se rend au plus vite à Misrata. Et le lendemain, dans la chambre froide d’un souk, au milieu d’une foule en furie, il découvre un corps. Mais qui a tué Mouammar Kadhafi ? Et pourquoi ? C’est le point de départ d’une enquête haletante et passionnante. Une enquête qui change le cours de l’Histoire.\n\n\"Paris Match Stories\" est un podcast Paris Match\nPrésentation : Marion Mertens\nProduction : Europe 1 Studio avec Guillaume Vasseau\nExtraits reportage : Alfred de Montesquiou\nIllustration Alice Devaux et Antoine Pommier. Photo: E.Vandeville/Getty Images\n\n\n\nAbonnez-vous à Paris Match : https://goo.gl/a8Frki\n\nRetrouvez Paris Match sur :\n\nFacebook : http://www.facebook.com/parismatch.fr\nTwitter : http://twitter.com/#!/parismatch\nInstagram: http://instagram.com/parismatch_magazine\nPinterest : https://www.pinterest.com/parismatch\nGoogle+ : http://plus.google.com/+ParisMatch",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v8sYrLlkaVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v8sYrLlkaVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v8sYrLlkaVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v8sYrLlkaVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v8sYrLlkaVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "v8sYrLlkaVc"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/SF6LsZckC7ZhWp8XP6EuCspBl2U\"",
+      "id": "NDIxNTczNTEwNzIwNDkzNDI1NzMyNjcyODA=",
+      "snippet": {
+        "publishedAt": "2019-11-11T22:18:40.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "Productivity tools you should know about if you want to have a focused learning path Stijn Vanpouck",
+        "description": "Due the extreme amount of resources we're getting overwhelmed with blogs, articles, youtube channels, online courses, books, etc...\n\nAfter this conference you'll definitely have multiple topics you want to learn more about. But distractions, information overload, work priorities and others are not helpful towards focused learning. Maybe your HR department enforces you to do a yearly reflection on what you've learned, and you'll definitely have stuff to tell, but most likely there will also be topics that you where not able to dive in to as much as you wanted. During the years I've combined different proven techniques like OKR's and GROW. But I always struggled to keep track of them on a daily/weekly basis.\n\nI'm not an HR guy I'm technical and I love tools. So I'm using tools to motivate myself and to get my focus back, I'm using notion, pocket, IFTTT, Kanban boards and mind mappings, etc.. Some I failed to keep in my daily routine but others where surprisingly useful. Those are the ones I want to share with you so that you can started using them and become an even more better developer in no-time. These tools will become your personal coach. They'll help you to reason about your goals as a developer, they will help you to organise all the gathered information, they will enforce you to work on your skills on a short- and long-term basis, and they'll make sure that you spend your time more wisely. I wished that I knew about them many years ago.\n\nStijn started as a Java developer more than a decade ago. He worked as a consultant in Agile development projects for many companies in multiple industries in Belgium. Today he works as a freelance Lead Developer / Technical Architect. \n\nOver the years Stijn became a believer of Agile development and Domain Driven Design. He loves to reason about implementation architectures and technologies. He had always been involved in the non-technical supporting tasks for his teams or companies, like recruiting or coaching and training other co-developers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yWcLv5ShicU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yWcLv5ShicU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yWcLv5ShicU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yWcLv5ShicU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yWcLv5ShicU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "yWcLv5ShicU"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/teXS_PjJkUqnih-hUiVjb4oIoGo\"",
+      "id": "MTMxNTczMzg4NjMwNDkzNDI1NzMyNjgxNzY=",
+      "snippet": {
+        "publishedAt": "2019-11-10T12:23:50.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-a6KYoDibkng/AAAAAAAAAAI/AAAAAAAAAAA/JzFMn4x7Xrw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-a6KYoDibkng/AAAAAAAAAAI/AAAAAAAAAAA/JzFMn4x7Xrw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-a6KYoDibkng/AAAAAAAAAAI/AAAAAAAAAAA/JzFMn4x7Xrw/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "iamLucid",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UC31GyoVAjRLLK9Nh4298PzA"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/R_Anu7FULQVsx_CU9E3h0N0yOrk\"",
+      "id": "MTMxNTczMzg3ODc0NDkzNDI2OTczNzQxNjA=",
+      "snippet": {
+        "publishedAt": "2019-11-10T12:11:14.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-VEB545Y1H1M/AAAAAAAAAAI/AAAAAAAAAAA/trwfqEkQLEU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-VEB545Y1H1M/AAAAAAAAAAI/AAAAAAAAAAA/trwfqEkQLEU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-VEB545Y1H1M/AAAAAAAAAAI/AAAAAAAAAAA/trwfqEkQLEU/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Bloomberg",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCUMZ7gohGI9HcU9VNsr2FJQ"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GWM850Reh8TPLnzp0dhb9RSa-E0\"",
+      "id": "NDIxNTczMzg3NjQ4NDkzNDI1NzcxMjI2NDA=",
+      "snippet": {
+        "publishedAt": "2019-11-10T12:07:28.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "The Million-Dollar Hacker",
+        "description": "Tommy DeVoss used to break into websites illicitly. But after serving time for his crimes, he now uses his skills to earn an honest living. Through arrangements known as bug bounty programs, companies pay him to find security holes in their systems. He’s now earned more than $1 million in this emerging profession. This is an episode of Next Jobs, a mini-documentary series about careers of the future hosted by Bloomberg Technology’s Aki Ito. \n\nVideo by Victoria Blackburne-Daniell, David Nicholson, Henry Baker",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/icyTUMjlvMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/icyTUMjlvMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/icyTUMjlvMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/icyTUMjlvMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/icyTUMjlvMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "icyTUMjlvMg"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/XlDUJoSHGovUZgz7qfqF5P3JtKU\"",
+      "id": "NDIxNTczMzg1MTIxNDkzNDI1NzcxMjA4NDg=",
+      "snippet": {
+        "publishedAt": "2019-11-10T11:25:21.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "[LYRICS] EDEN - Wake Up",
+        "description": "No copyright infringement. I am not affiliated to any artist.\nThank you so much for watching.This is the Episode of End Credit. I made this song to promote the EDEN artist and his amazing track - Wake up :)\n\nYou can free download this song at: http://end-credits.mcmxcv.eu/\n\nEDEN:\nhttps://soundcloud.com/eden-mcmxcv\nhttps://www.facebook.com/eden.mcmxcv\nhttps://twitter.com/eden_mcmxcv\nhttps://www.youtube.com/user/EdenProjectOfficial\n\nCredits for Background to DevianArt: \nhttp://megatruh.deviantart.com/\n\nCredits for Logo to NightcoreNeron:\nhttps://www.youtube.com/channel/UCu5E6mDfBOjj9llD5JTj4dQ\n\nPlease Like and Subscribe for More =)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FgR-OKcqL0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FgR-OKcqL0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FgR-OKcqL0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FgR-OKcqL0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FgR-OKcqL0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "FgR-OKcqL0g"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/af_054kODvdFAyw-ntpkwEjDc0g\"",
+      "id": "NDIxNTczMzg0ODg4NDkzNDI2MjkxNTY2MjQ=",
+      "snippet": {
+        "publishedAt": "2019-11-10T11:21:28.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "Gregory Alan Isakov - If I Go, I'm Going",
+        "description": "\"This Empty Northern Hemisphere\"\r\nReleased May 1, 2009\r\n© 2009 Gregory Alan Isakov\r\n\r\nAlbum available on iTunes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q3gnxO8bUxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q3gnxO8bUxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q3gnxO8bUxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "q3gnxO8bUxQ"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MKLQ0Jmr1Mx7SnHxI-T75ypTqGs\"",
+      "id": "MTMxNTcyODc1NzExNDkzNDI2MjkxNTY0OTY=",
+      "snippet": {
+        "publishedAt": "2019-11-04T13:55:11.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-o2qgh6F7AJU/AAAAAAAAAAI/AAAAAAAAAAA/V2OFhix8l00/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-o2qgh6F7AJU/AAAAAAAAAAI/AAAAAAAAAAA/V2OFhix8l00/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-o2qgh6F7AJU/AAAAAAAAAAI/AAAAAAAAAAA/V2OFhix8l00/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Midan - ميدان",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCqPP4dbgr9Uddnzzuzr8qXQ"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/t4JfquMv38vVcwYJ3y3XmenS_ho\"",
+      "id": "MTMxNTcyNzgxNjQ0NDkzNDI2MjkxNTYxNzY=",
+      "snippet": {
+        "publishedAt": "2019-11-03T11:47:24.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-y3CuCLYHP04/AAAAAAAAAAI/AAAAAAAAAAA/1vuu2qIuQqQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-y3CuCLYHP04/AAAAAAAAAAI/AAAAAAAAAAA/1vuu2qIuQqQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-y3CuCLYHP04/AAAAAAAAAAI/AAAAAAAAAAA/1vuu2qIuQqQ/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "LADbible",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UC4oVjJptcsvtgIMrdIUQYlQ"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/as30exZxA3RB8kG-vqBh9aavjso\"",
+      "id": "NDIxNTcyNjQ1NTAwNDkzNDI2MjkxNTc3NzY=",
+      "snippet": {
+        "publishedAt": "2019-11-01T21:58:20.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "\"Tout est mathématique\", conférence Honoris Causa de Cédric Villani à HEC Paris",
+        "description": "HEC Paris a eu l’honneur d’accueillir Cédric Villani, médaille Fields 2010, Directeur de l’institut Henri Poincaré et Professeur à l’université Claude Bernard Lyon1, pour lui remettre à l'issue d'une conférence donnée aux étudiants, le titre de Professeur Honoris Causa d'HEC Paris. \nA partir du thème de sa conférence : \"Des triangles, des gaz, des prix et des hommes\", Cédric Villani a tout d’abord montré que tout était \"au fond\" mathématique : \"La mathématique s'incarne tout autour de nous. Notre monde en général et l'économie en particulier sont de plus en plus mathématiques\".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rLFUnCUyPko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rLFUnCUyPko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rLFUnCUyPko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rLFUnCUyPko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rLFUnCUyPko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rLFUnCUyPko"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Y4SWEDCzO3m5K-7f1sUApwU8Qe4\"",
+      "id": "NDIxNTcyNTYxNDEyNDkzNDI2MjkxNTc3MTI=",
+      "snippet": {
+        "publishedAt": "2019-10-31T22:36:52.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "round 2 - عركة قيس سعيد و نبيل القروي",
+        "description": "► Subscribe to my channel \n\nInstagram - https://www.instagram.com/ahmed.manai26/\n\n.\n.\nCaricature :\n\nrached ghannouchi : By Oussem bardaoui\nkais saied : By Hassen ben hamed",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJzh9H9bsjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJzh9H9bsjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJzh9H9bsjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cJzh9H9bsjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cJzh9H9bsjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "cJzh9H9bsjU"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bUkD6zhvBSNez9dPUMfF616VrSc\"",
+      "id": "MTMxNTcyNTYxMzIwNDkzNDI2MjkxNTczMjg=",
+      "snippet": {
+        "publishedAt": "2019-10-31T22:35:20.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-ygVEgrr--vI/AAAAAAAAAAI/AAAAAAAAAAA/HCXwFZ7VHUw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-ygVEgrr--vI/AAAAAAAAAAI/AAAAAAAAAAA/HCXwFZ7VHUw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-ygVEgrr--vI/AAAAAAAAAAI/AAAAAAAAAAA/HCXwFZ7VHUw/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Ahmed Manai",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCx_KpCbwVHfD6yuUX83iToQ"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IjMk0zX7ar2_xbOUT-dp7-JYHbw\"",
+      "id": "NDIxNTcyNTA1MDU3NDkzNDI2MjkxNTUwMjQ=",
+      "snippet": {
+        "publishedAt": "2019-10-31T06:57:37.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "How to do Vienna - VIENNA/NOW",
+        "description": "What is the best way to get from the airport to the city? Where do I get Wi-Fi? And why are there so many different types of coffee? Tips, Tricks, Do's and Don'ts: In this episode of VIENNA/NOW Adia shows you some basic facts on how to make your arrival and stay in Vienna even easier. \n\nThis VIENNA / NOW episode is a guide for everybody who plans on travelling to Vienna. All the way from the landing at the airport, to the cheapest and quickest way to get into the city, to the dos & don’ts while staying in Austria‘s capital. Learn how to order a coffee the right way and what amount of tip is usually followed by a nice „Dankeschön“ from the waiter. Adia will show you all the necessities and tricks you’ll need when it’s your turn to travel to Vienna.\n\nMore info and facts about Vienna: https://www.wien.info/en/travel-info \n\nTo be sure not to miss anything subscribe to our channel http://www.youtube.com/Vienna  \nFind all info about Vienna at http://www.vienna.info\nViennas Facebook Account: https://www.facebook.com/ViennaTouristBoard \nVienna twitters at: https://twitter.com/viennainfob2b\nVienna's Instagram Account: https://instagram.com/viennatouristboard/\n\n////\n\nFeatured in this episode in order of appearance:\n\n\nVienna Airport\nhttps://www.wien.info/en/travel-info/to-and-around/by-plane\n\n\nFrom Airport to City Center\nhttps://www.wien.info/en/travel-info/to-and-around/airport-to-center \n\n\nTourist Info\nhttps://www.wien.info/en/travel-info/tourist-info \n\n\nCoffeehouses in Vienna\nhttps://www.wien.info/en/shopping-wining-dining/coffeehouses\n\n\nPublic Transport\nhttps://www.wien.info/en/travel-info/transport \n\n\n////\n\nMusic: \n\nAndrew Applepie:\nAnkara please\nSweet tomorrow\nTension\nSleeping beauty\nhttp://andrewapplepie.com\n\n////\n\nCredits:\nIdea & Concept: SLASH http://www.slash.co.at\nDirector & Script: Stefan Schlager\nProducer: Alex Haberfellner \nCamera: Bernhard Popovic\nEditing, Animation: Thomas Scharf\nAudio: Overdub, Gregor Rašek\n\n\nProduced by SLASH",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bUW9QEDK4qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bUW9QEDK4qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bUW9QEDK4qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bUW9QEDK4qc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bUW9QEDK4qc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bUW9QEDK4qc"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gST0d0lwIjkKXloB5Qim_czBwW4\"",
+      "id": "MTMxNTcyMzM1MTg3NDkzNDI2MjkxNTc1MjA=",
+      "snippet": {
+        "publishedAt": "2019-10-29T07:46:27.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-lhJTvOaoUoo/AAAAAAAAAAI/AAAAAAAAAAA/xLTHaLTLhwA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-lhJTvOaoUoo/AAAAAAAAAAI/AAAAAAAAAAA/xLTHaLTLhwA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-lhJTvOaoUoo/AAAAAAAAAAI/AAAAAAAAAAA/xLTHaLTLhwA/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "CNBC",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-RMLuYQNhfaUTqYZXnLooOYsDFQ\"",
+      "id": "MTMxNTcyMjg0MzQ0NDkzNDI2MjkxNTY3NTI=",
+      "snippet": {
+        "publishedAt": "2019-10-28T17:39:04.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-mlZURIoYJjU/AAAAAAAAAAI/AAAAAAAAAAA/WprjPAJIBfk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-mlZURIoYJjU/AAAAAAAAAAI/AAAAAAAAAAA/WprjPAJIBfk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-mlZURIoYJjU/AAAAAAAAAAI/AAAAAAAAAAA/WprjPAJIBfk/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Le Monde",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCYpRDnhk5H8h16jpS84uqsA"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IQe7HBWtl9uX7rZhFifYW6d_1-I\"",
+      "id": "MTMxNTcyMTkzMzA1NDkzNDI2MjkxNTUxNTI=",
+      "snippet": {
+        "publishedAt": "2019-10-27T16:21:45.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-CnH7vx7pi_k/AAAAAAAAAAI/AAAAAAAAAAA/SPVPdc8o7HQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-CnH7vx7pi_k/AAAAAAAAAAI/AAAAAAAAAAA/SPVPdc8o7HQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-CnH7vx7pi_k/AAAAAAAAAAI/AAAAAAAAAAA/SPVPdc8o7HQ/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "digiSchool",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCXHJxRgcRoQCQj9ElFD8HQg"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/xHQbkr2lE_UKHbCFeVnLfAlF6fw\"",
+      "id": "MTMxNTcyMTkwODIyNDkzNDI2MjkxNTU2NjQ=",
+      "snippet": {
+        "publishedAt": "2019-10-27T15:40:22.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-mXfv1Jr11Yg/AAAAAAAAAAI/AAAAAAAAAAA/aQR6rybjahw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-mXfv1Jr11Yg/AAAAAAAAAAI/AAAAAAAAAAA/aQR6rybjahw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-mXfv1Jr11Yg/AAAAAAAAAAI/AAAAAAAAAAA/aQR6rybjahw/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Matt D'Avella",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCJ24N4O0bP7LGLBDvye7oCA"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wPVT_HDwEO2lAHR9WbtRKlNRywc\"",
+      "id": "MTMxNTcyMDk1ODExNDkzNDI2MjkxNTU1MzY=",
+      "snippet": {
+        "publishedAt": "2019-10-26T13:16:51.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-KdyTfuRIJ1Y/AAAAAAAAAAI/AAAAAAAAAAA/ilSA6PvUThE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-KdyTfuRIJ1Y/AAAAAAAAAAI/AAAAAAAAAAA/ilSA6PvUThE/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-KdyTfuRIJ1Y/AAAAAAAAAAI/AAAAAAAAAAA/ilSA6PvUThE/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Hamza",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCGdSAF50uDAxghTy_3MpKng"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TA4ZKtRFimP_NfoWdiMYIjifJk8\"",
+      "id": "MTMxNTcxOTUyNDQwNDkzNDI2MjkxNTcwNzI=",
+      "snippet": {
+        "publishedAt": "2019-10-24T21:27:20.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-L32UUg-ESCI/AAAAAAAAAAI/AAAAAAAAAAA/gIohXorYD04/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-L32UUg-ESCI/AAAAAAAAAAI/AAAAAAAAAAA/gIohXorYD04/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-L32UUg-ESCI/AAAAAAAAAAI/AAAAAAAAAAA/gIohXorYD04/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Le savoir est une arme",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCO36NM5JMUiI9oCnoTPFMnw"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AyhlZtRVcKjTqCQl0-odFfEZoA0\"",
+      "id": "NDIxNTcxNDgyNzU3NDkzNDI2MjkxNTcyMDA=",
+      "snippet": {
+        "publishedAt": "2019-10-19T10:59:17.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "Musculation pour la Boxe ! ( Combat John Coffee vs Boxeur Pro )",
+        "description": "Les exercices à faire en salle quand on est boxeur et le type de programme à avoir. Bonus :  (combat de l'adorable john coffee VS l'abominable triple champion du monde )\nInsta : Marvel.fit\nhttps://www.facebook.com/marvel.fit/ Tipee : https://www.tipeee.com/marvel-fitness",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kdPrPNKLdVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kdPrPNKLdVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdPrPNKLdVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kdPrPNKLdVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kdPrPNKLdVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kdPrPNKLdVg"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vmeX1ERQTFx8y6XQXyR1Tb4uAik\"",
+      "id": "MTMxNTcxNDgxODIzNDkzNDI2MjkxNTc5Njg=",
+      "snippet": {
+        "publishedAt": "2019-10-19T10:43:43.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-7Cq2OUxZ9jU/AAAAAAAAAAI/AAAAAAAAAAA/QzDInQUY0BQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-7Cq2OUxZ9jU/AAAAAAAAAAI/AAAAAAAAAAA/QzDInQUY0BQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-7Cq2OUxZ9jU/AAAAAAAAAAI/AAAAAAAAAAA/QzDInQUY0BQ/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Coach Anthony",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCfOamDxdVYntCBFE0jyI2DA"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/X9_4EmSEezCq1tSnZztV4yxwPNc\"",
+      "id": "MTMxNTcxNDM1MzAyNDkzNDI2MjkxNTYzNjg=",
+      "snippet": {
+        "publishedAt": "2019-10-18T21:48:22.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-RFqrPfBEBDE/AAAAAAAAAAI/AAAAAAAAAAA/S_SD3sHF6EA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-RFqrPfBEBDE/AAAAAAAAAAI/AAAAAAAAAAA/S_SD3sHF6EA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-RFqrPfBEBDE/AAAAAAAAAAI/AAAAAAAAAAA/S_SD3sHF6EA/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Gabriel St-Germain",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCqw27ZfS4aWdNhP1MDOldPA"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ABql3tjMLQEcWnKV53ICGKywqwM\"",
+      "id": "MTMxNTcxNDMzNDI1NDkzNDI1Nzc3ODUyOTY=",
+      "snippet": {
+        "publishedAt": "2019-10-18T21:17:05.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-QrCecMugomQ/AAAAAAAAAAI/AAAAAAAAAAA/lAIVSzsE88E/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-QrCecMugomQ/AAAAAAAAAAI/AAAAAAAAAAA/lAIVSzsE88E/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-QrCecMugomQ/AAAAAAAAAAI/AAAAAAAAAAA/lAIVSzsE88E/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Alex Fedotoff",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCWDAUvqMCfdeSdruAAdF5Zg"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/xGSO8Dn4rU1Ll5LxA1Dee-Yg_dM\"",
+      "id": "MTMxNTcxMjk5OTY0NDkzNDI1OTI2NDA5MTI=",
+      "snippet": {
+        "publishedAt": "2019-10-17T08:12:44.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-Pt86n96PlDc/AAAAAAAAAAI/AAAAAAAAAAA/NUUQjNDyRlU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-Pt86n96PlDc/AAAAAAAAAAI/AAAAAAAAAAA/NUUQjNDyRlU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-Pt86n96PlDc/AAAAAAAAAAI/AAAAAAAAAAA/NUUQjNDyRlU/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "College Music",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCWzZ5TIGoZ6o-KtbGCyhnhg"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/p3mjDoRkAyytAl1eH-DSY1eSXvE\"",
+      "id": "NDIxNTcxMjk5OTYxNDkzNDI1OTI2Mzk4ODg=",
+      "snippet": {
+        "publishedAt": "2019-10-17T08:12:41.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "24/7 Christmas lofi hip hop radio - beats to study/chill/relax",
+        "description": "Welcome to our stream 👋 We hope you have a good time and enjoy the music :)\nMusic playing → lofi hip hop / beats\n \n🔈Got Spotify? Get the playlist here (재생 목록) 🎶\nhttp://lofi.collegemusic.co.uk\n\n--- --- ---\n\nWe care about our listeners, particularly those of you who have talked about feeling alone or depressed, or even suicidal. We know sometimes things can get tough, but we want to let you know you’re not alone and there are people out there who can help. \n\nOur study girl recently took a break to focus on her own mental health. To find out more about what happened, click here: \n\n→  https://www.collegemusic.co.uk/what-happened\n\nAt the link below, you’ll find a selection of VICE articles offering mental health support, which we hope will act as guidance, advice and simply a reminder: You are not alone.\n\n→ https://www.collegemusic.co.uk/vice-support\n\n--- --- ---\n\n환영합니다! 여기에서 즐거운 시간을 보내시고, 감미로운 비트를 즐겨주시기 바랍니다!\n\nSubscribing (with notifications 🔔 turned on) & liking the stream helps so much 💙 + if the stream goes down you'll get notified the new link immediately!\n\nHelp us keep this stream running 🔌 - \nPaypal: https://goo.gl/ySwmf7\n\nDiscord ✅ - https://discord.gg/dhthj5V\n\n▶️ YouTube Lofi Playlist - http://bit.ly/YouTubeLofiPlaylist\n\n↪︎ Twitter » http://twitter.collegemusic.co.uk\n↪︎ Soundcloud » http://soundcloud.collegemusic.co.uk\n↪︎ Spotify » http://spotify.collegemusic.co.uk\n↪︎ Snapchat » http://snapchat.collegemusic.co.uk\n↪︎ Facebook » http://facebook.collegemusic.co.uk\n\n- USEFUL NIGHTBOT COMMANDS (봇 명령어) -\n​!talk \"Whatever you wanna say\"  » Nightbot will talk back to you!\n!song » Displays the current song playing\n!prev » Displays the previous song name\n!donate » Help us keep the stream going!\n!weather enterlocation » Tells you the weather at the location specified \n!share » Generates a Twitter link to share\n!social » Shows College Music social media links\n!subscribe » Gives you a link to subscribe to our channel\n!contact » Stream not working? Let us know \n!rules » Help familiarize yourself with our chat rules\n!hug » Feeling lonely?\n!funny » Our bot's funniest quote of the day\n\nIf you or a friend are experiencing suicidal feelings, please use the appropriate command in the live chat to show relevant helpline information:\n\n!helpusa » displays mental health helpline info for USA\n!helpuk » displays mental health helpline info for UK\n!helprussia » displays mental health helpline info for Russia\n!helpmexico » displays mental health helpline info for Mexico\n!helpkor » displays mental health helpline info for South Korea\n!helpjapan » displays mental health helpline info for Japan\n!helpgermany » displays mental health helpline info for Germany\n!helpfrance » displays mental health helpline info for France\n!helpcanda » displays mental health helpline info for Canada\n!helpbrazil » displays mental health helpline info for Brazil\n!global » displays mental health helpline for the rest of the world\n\n---- FAQs ----\n\n➤ Genres?\nLofi Hiphop - JazzHop - Chillhop - Ambient - Electronic\n\n➤ How long have you been streaming?\nWe were one of the first music channels to stream on YouTube + have the best uptime of any streamer. \n\n➤ How long will this be online?\nAll day, everyday.\n\n --------\n✖ Background and animation by Gloria Gemignani",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yaKeFoNOneg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yaKeFoNOneg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yaKeFoNOneg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yaKeFoNOneg/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yaKeFoNOneg/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "yaKeFoNOneg"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cpjgj4KVnZFQiX4K0JFWJRuElf4\"",
+      "id": "NDIxNTcxMjE3MDU4NDkzNDI1OTI2NDEyOTY=",
+      "snippet": {
+        "publishedAt": "2019-10-16T09:10:58.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "How to 'Finger Slap' using your hand and index finger",
+        "description": "This video shows you how to slap your finger to make a cool noise. WARNING, you might injure yourself doing this! ;o)\n\nYou might notice the video quality is WAY better than any of my other vids. It's because I stole (sorry borrowed) my Dads new Canon EOS 750d. It is really very very nice indeedy.\n\nTo use this video in a commercial player, advertising or in broadcasts, please email Brave Bison: licensing@bravebison.io",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FhLzAsgokkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FhLzAsgokkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FhLzAsgokkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FhLzAsgokkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FhLzAsgokkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "FhLzAsgokkk"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kf-YVeLIoKogo5fQzQf4XZ-H4hM\"",
+      "id": "NDIxNTY5MzQ0NTEyNDkzNDI1OTI2NDE4MDg=",
+      "snippet": {
+        "publishedAt": "2019-09-24T17:01:52.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "Post Malone - Goodbyes (Lyrics) ft. Young Thug",
+        "description": "Post Malone - Goodbyes (Lyrics) ft. Young Thug\n\nSpotify Playlist : https://Popular-Music.lnk.to/Spotify\n\nDownload Goodbyes: https://PostMalone.lnk.to/GoodbyesYD\n\n►Follow Post Malone Online\nInstagram: https://instagram.com/postmalone\nFacebook: https://facebook.com/postmalone\nTwitter: https://twitter.com/postmalone\nShazam: https://www.shazam.com/artist/200662979/post-malone\nWebsite: http://www.postmalone.com\n\n\nbackground : unsplash\n\nLyrics :\n\n [Verse 1: Post Malone]\nMe and Kurt feel the same, too much pleasure is pain\nMy girl spites me in vain, all I do is complain\nShe needs something to change, need to take off the e-e-edge\nSo fuck it all tonight\nAnd don't tell me to shut up\nWhen you know you talk too much\nBut you don't got shit to say (Say)\n\n[Chorus: Post Malone]\nI want you out of my head\nI want you out of my bedroom tonight (Bedroom)\nThere's no way I could save you (Save you)\n'Cause I need to be saved, too\nI'm no good at goodbyes\n\n[Verse 2: Post Malone]\nWe're both actin' insane, but too stubborn to change\nNow I'm drinkin' again, 80 proof in my veins\nAnd my fingertips stained, looking over the e-e-edge\nDon't fuck with me tonight\nSay you needed this heart, then you got it (Got it)\nTurns out that it wasn't what you wanted (Wanted)\nAnd we wouldn't let go and we lost it\nNow I'm a goner\n\n[Chorus: Post Malone]\nI want you out of my head (Head)\nI want you out of my bedroom tonight (Bedroom)\nThere's no way I could save you (Save you)\n'Cause I need to be saved, too (Saved, too)\nI'm no good at goodbyes\n\n[Verse 3: Young Thug]\nI want you out of my life\nI want you back here tonight\nI'm tryna cut you, no knife\nI wanna slice you and dice you\nMy argue possessive, it got you precise\nCan you not turn off the TV? I'm watchin' the fight\nI flood the garage, blue diamond, no shark\nYou're Barbie life doll, it's Nicki Minaj\nYou don't need a key to drive, your car on the charger\nI just wanna see the side, the one that's unbothered (Yeah)\nAnd I don't want ya to never go outside (Outside)\nI promise if they play, my niggas slidin' (Slidin')\nI'm fuckin' her, and the tour bus still ridin' (Ridin')\nYeah, yeah, yeah, yeah, yeah\n\n[Chorus: Post Malone]\nI want you out of my head (Head)\nI want you out of my bedroom tonight (Bedroom)\nThere's no way I could save you (Save you)\n'Cause I need to be saved, too (Saved, too)\nI'm no good at goodbyes\n\n[Outro: Post Malone & Young Thug]\nGoodbye, goodbye, goodbye (Bye, bye)\nGoodbye, goodbye, goodbye (Bye, bye)\n(Yeah, yeah, yeah, yeah, yeah)\nGoodbye, goodbye, goodbye (Bye, bye, bye)\nI'm no good at goodbyes\nGoodbye, goodbye, goodbye (Bye, bye)\nGoodbye, goodbye, goodbye (Bye, bye)\nGoodbye, goodbye, goodbye (Bye, bye)\nI'm no good at goodbyes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QumPpMqaxxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QumPpMqaxxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QumPpMqaxxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QumPpMqaxxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QumPpMqaxxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QumPpMqaxxo"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/l0VG_UNPnjXTa-aoWlWs5PiBwCI\"",
+      "id": "NDIxNTY4Nzk2MDQzNDkzNDI1OTI2NDExMDQ=",
+      "snippet": {
+        "publishedAt": "2019-09-18T08:40:43.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "HVOB - Bloom (Fink Remix)",
+        "description": "Skating is forbidden by the police in Uganda. They claim it is used as a tool for thugs and thieves, saying they use the skill of weaving through traffic to snatch things from cars and trucks. But for many young Ugandans it is passion, which provides a new sense of pride and self-expression. \n\nBut a few youngsters who fell in love with the sport, started to use their skates to get around the city for free by holding on to the backs of minibuses or motorbikes on uphill sections and overtaking them on the downhill parts. This is how the filmmakers Nicola von Leffern & Jakob Carl Sauer first took notice of them, which ended in a film-like chase through all of Kampala.\n\nBrian (@brianclearlevel) from the Clear Level Crew invited them into his world. For him, skating is much more than a sport. It is a mindset. \n\nThe music video is an exerpt of an upcoming documentary film by Nicola von Leffern & Jakob Carl Sauer.\n\n–––\nA film by\nJakob Carl Sauer  \nNicola von Leffern \n\nRe-recording Mixer \nMatthias Ermert \n\nWith \nBrian Skater \nClear Level Uganda\n\nThanks to\nVerena Guggenberger \nChristian Guggenberger\nAttila Boa\n\nMusic\nHVOB - Bloom\nFink Remix\n© PIAS\n\nhttps://www.facebook.com/finkmusic/\nhttps://www.facebook.com/HVOBMUSIC/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mCt9uWyw284/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mCt9uWyw284/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mCt9uWyw284/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mCt9uWyw284/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mCt9uWyw284/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mCt9uWyw284"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9QEK2kllLxNUQuKdftBTaTvRUAo\"",
+      "id": "MTMxNTY3MTg1MzM2NDkzNDI1OTI2NDE0ODg=",
+      "snippet": {
+        "publishedAt": "2019-08-30T17:15:36.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-oxjd9m_eEwA/AAAAAAAAAAI/AAAAAAAAAAA/VnCSNRzaj0A/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-oxjd9m_eEwA/AAAAAAAAAAI/AAAAAAAAAAA/VnCSNRzaj0A/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-oxjd9m_eEwA/AAAAAAAAAAI/AAAAAAAAAAA/VnCSNRzaj0A/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Badass Quotes",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCHguZTEVZa71jveGEbxtNVw"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7xIKQ7Dqx0PoYMWteB5VQGnWN6U\"",
+      "id": "MTMxNTY2NzYwNTM3NDkzNDI1OTI2NDE3NDQ=",
+      "snippet": {
+        "publishedAt": "2019-08-25T19:15:37.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-Di9MVECh-aI/AAAAAAAAAAI/AAAAAAAAAAA/7A-k418NLLE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-Di9MVECh-aI/AAAAAAAAAAI/AAAAAAAAAAA/7A-k418NLLE/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-Di9MVECh-aI/AAAAAAAAAAI/AAAAAAAAAAA/7A-k418NLLE/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Health Literacy",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCysK7WNmcDBpDcNMfLVG19Q"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8JPaibxVzYsVNBRNUvttuQ_CC1M\"",
+      "id": "MTMxNTY0Mzg4NzM0NDkzNDI1OTI2NDIxMjg=",
+      "snippet": {
+        "publishedAt": "2019-07-29T08:25:34.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-3WaYgJLKxOs/AAAAAAAAAAI/AAAAAAAAAAA/py4aD3ImegQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-3WaYgJLKxOs/AAAAAAAAAAI/AAAAAAAAAAA/py4aD3ImegQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-3WaYgJLKxOs/AAAAAAAAAAI/AAAAAAAAAAA/py4aD3ImegQ/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "IntelliJ IDEA",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UC4ogdcPcIAOOMJktgBMhQnQ"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IblmfbJAi03pds-EXmvm6n3lVoM\"",
+      "id": "NDIxNTY0Mzg4NzMzNDkzNDI1OTI2NDE2ODA=",
+      "snippet": {
+        "publishedAt": "2019-07-29T08:25:33.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "42 IntelliJ IDEA Tips and Tricks",
+        "description": "Contents:\n\nPresentation assistance plugin: https://youtu.be/eq3KiAH4IBI?t=170\nNavigation basics: https://youtu.be/eq3KiAH4IBI?t=282\nSymbol lookup: https://youtu.be/eq3KiAH4IBI?t=347\nFind in path: https://youtu.be/eq3KiAH4IBI?t=411\nSearch everywhere: https://youtu.be/eq3KiAH4IBI?t=446\nWorking without mouse: https://youtu.be/eq3KiAH4IBI?t=567\nWorking without editor tabs: https://youtu.be/eq3KiAH4IBI?t=604\nAutoscroll from/to source: https://youtu.be/eq3KiAH4IBI?t=756\nCreate new file/folder: https://youtu.be/eq3KiAH4IBI?t=851\nScratch files: https://youtu.be/eq3KiAH4IBI?t=928\nHide all windows/panels: https://youtu.be/eq3KiAH4IBI?t=978\nSyntax aware selection: https://youtu.be/eq3KiAH4IBI?t=1071\nMove/duplicate/delete lines : https://youtu.be/eq3KiAH4IBI?t=1117\nMultiple cursors: https://youtu.be/eq3KiAH4IBI?t=1168\nVim plugin: https://youtu.be/eq3KiAH4IBI?t=1270\nClean up code: https://youtu.be/eq3KiAH4IBI?t=1329\nLanguage injection: https://youtu.be/eq3KiAH4IBI?t=1518\nCode completion: https://youtu.be/eq3KiAH4IBI?t=1672\nCode templates: https://youtu.be/eq3KiAH4IBI?t=1867\nPostfix completion: https://youtu.be/eq3KiAH4IBI?t=1995\nAdvanced navigation: go to supermethod, go to superclass, type hierarchy, method hierarchy : https://youtu.be/eq3KiAH4IBI?t=2170\nStructure popup: https://youtu.be/eq3KiAH4IBI?t=2245\nInspections: https://youtu.be/eq3KiAH4IBI?t=2304\nStructural search and replace: https://youtu.be/eq3KiAH4IBI?t=2436\nAnalyze data flow: https://youtu.be/eq3KiAH4IBI?t=2611\nDatabase tools: https://youtu.be/eq3KiAH4IBI?t=2744\nVCS: https://youtu.be/eq3KiAH4IBI?t=2844\nDebugging: https://youtu.be/eq3KiAH4IBI?t=2986\nRefactoring basics: https://youtu.be/eq3KiAH4IBI?t=3198\nQuicklists: https://youtu.be/eq3KiAH4IBI?t=3362\nFind action: https://youtu.be/eq3KiAH4IBI?t=3441\nProductivity guide: https://youtu.be/eq3KiAH4IBI?t=3497\nZero latency typing: https://youtu.be/eq3KiAH4IBI?t=3552",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eq3KiAH4IBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eq3KiAH4IBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eq3KiAH4IBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eq3KiAH4IBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eq3KiAH4IBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "eq3KiAH4IBI"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/C0xkr-nB7VlFLVEcXn71sscA5cE\"",
+      "id": "NDIxNTYzOTUwMjM5NDkzNDI1OTI2NDAzMzY=",
+      "snippet": {
+        "publishedAt": "2019-07-24T06:37:19.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "Therapie TAXI ft. Roméo Elvis - Hit Sale (Clip Officiel) (1/3)",
+        "description": "CADAVRE EXQUIS - Nouvel album disponible: https://PanenkaMusic.lnk.to/Cadavre-Exquis\nEN TOURNEE DANS TOUTE LA FRANCE ▶️ https://therapietaxi.fnacspectacles.com\nExtrait de HIT SALE, notre 1er album est dispo partout ▶️ https://PanenkaMusic.lnk.to/HitSale-XtraCheese\n\nRejoignez nous sur:\nInstagram: https://www.instagram.com/therapietaxi/\nFacebook: https://www.facebook.com/therapietaxi/\nTwitter: https://twitter.com/therapietaxi\n\nRéalisé par Original Kids\nProduit par HK Corp\n\n℗ & © PANENKA MUSIC\n\nCasting: Arlette Nasjat, Veronique Berthoud, Alix Schmidt, Marie Claire Arenes, Claudie Cadroch, Wisdom Ayanou, David Prat, Bernard-Gilles Daillier",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CpTLFchI8Zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CpTLFchI8Zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CpTLFchI8Zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CpTLFchI8Zk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CpTLFchI8Zk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "CpTLFchI8Zk"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1i9JJwuhPn1vvPg1c4QjKwIIx1U\"",
+      "id": "NDIxNTYzNzc3ODIxNDkzNDI1OTI2NDA0NjQ=",
+      "snippet": {
+        "publishedAt": "2019-07-22T06:43:41.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "The Blaze - Queens (Official Video)",
+        "description": "The Blaze - Queens (Official Video)\nThe Blaze's debut album \"Dancehall\" out now (Stream/Download/LP) : https://theblaze.lnk.to/DancehallAll\nClick here to subscribe to this channel : http://bit.ly/2lfxIjV \nClick here to subscribe to The Blaze's newsletter : http://eepurl.com/cyfP0P\n\nWe’re on tour this summer and our North America Tour is now on sale\nhttps://theblaze.lnk.to/tour\n\nDirected by Jonathan and Guillaume Alric \nDirector of photography: Nicolas Loir  \nProducers: Maëva Tenneroni and Horace de Gunzbourg \nActors: Najaa Fazouati Bensaid, Lina El Arabi \nStylist: Marion Brillouet\nEditor: Nicolas Larrouquere\nColor grading : Mathieu Caplanne \n\nThe Blaze - Official Videos : http://bit.ly/TheBlazeOfficialVideos\nThe Blaze - Territory EP : http://bit.ly/TheBlazeTerritoryEP\nThe Blaze - All songs : http://bit.ly/TheBlazeALL\n\nThe Blaze's social media\nFacebook: http://bit.ly/TheBlazeFacebook\nTwitter: http://bit.ly/TheBlazeTwitter\nInstagram: http://bit.ly/TheBlazeInstagram",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like",
+        "groupId": "NDIxNTYzNzc3ODIxNDkzNDI1OTI2NDA0NjQ="
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZdJ6FO9HAcc"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CXOeTFafBfkeFzwSLbkl0ZdksnY\"",
+      "id": "NDIxNTM2MDk4MDk0NDkzNDI1OTI2NDE4NzI=",
+      "snippet": {
+        "publishedAt": "2018-09-04T21:54:54.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "The Blaze - Queens (Official Video)",
+        "description": "The Blaze - Queens (Official Video)\nThe Blaze's debut album \"Dancehall\" out now (Stream/Download/LP) : https://theblaze.lnk.to/DancehallAll\nClick here to subscribe to this channel : http://bit.ly/2lfxIjV \nClick here to subscribe to The Blaze's newsletter : http://eepurl.com/cyfP0P\n\nWe’re on tour this summer and our North America Tour is now on sale\nhttps://theblaze.lnk.to/tour\n\nDirected by Jonathan and Guillaume Alric \nDirector of photography: Nicolas Loir  \nProducers: Maëva Tenneroni and Horace de Gunzbourg \nActors: Najaa Fazouati Bensaid, Lina El Arabi \nStylist: Marion Brillouet\nEditor: Nicolas Larrouquere\nColor grading : Mathieu Caplanne \n\nThe Blaze - Official Videos : http://bit.ly/TheBlazeOfficialVideos\nThe Blaze - Territory EP : http://bit.ly/TheBlazeTerritoryEP\nThe Blaze - All songs : http://bit.ly/TheBlazeALL\n\nThe Blaze's social media\nFacebook: http://bit.ly/TheBlazeFacebook\nTwitter: http://bit.ly/TheBlazeTwitter\nInstagram: http://bit.ly/TheBlazeInstagram",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZdJ6FO9HAcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like",
+        "groupId": "NDIxNTYzNzc3ODIxNDkzNDI1OTI2NDA0NjQ="
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZdJ6FO9HAcc"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/F5RIomgnYz25c3lZpxGaiargiPI\"",
+      "id": "NDIxNTYzNzI0ODM0NDkzNDI1OTI2NDIwMDA=",
+      "snippet": {
+        "publishedAt": "2019-07-21T16:00:34.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "NessYou - Sekra  Ft. Xcep (Official Audio)",
+        "description": "NessYou - Sekra  Ft. Xcep (Official Audio)\n\nProduced, Arranged & Mixed by : XCEP\nArtwork by : Abdelaziz Ouenza\n\nSuivez NESSYOU sur les réseaux sociaux :\n\nFacebook : https://www.facebook.com/NESSY0U?ref=hl\nTwitter : https://twitter.com/ne2s_u\nInstagram : https://www.instagram.com/ne2s_u/\nSnapchat : Nessyou-kesh\n\nWWW.NESSYOU.COM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2oVhGVaZwnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2oVhGVaZwnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2oVhGVaZwnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2oVhGVaZwnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2oVhGVaZwnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2oVhGVaZwnE"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/NlXZXTwZrXA8lrFehy0MgLqrD1U\"",
+      "id": "NDIxNTYzNTg4NTM1NDkzNDI1OTI2Mzk4MjQ=",
+      "snippet": {
+        "publishedAt": "2019-07-20T02:08:55.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "title": "BEST Workout & Diet ADVICE for SKINNY GUYS ft. Mike Matthews | How to Build & Gain Muscle FAST",
+        "description": "Learn how to make girls OBSESSED with you over text: http://bit.ly/godlytextingguide\n\nToday, learn how to build muscle & gain muscle fast if you're skinny, how to build strength, how to get stronger, what to eat to gain weight, and MORE.\n\nCheck out Mike: www.legionathletics.com |  www.muscleforlife.com\n \nSUBSCRIBE! http://bit.ly/29xqSWN\n\nJoin the BasedLympian Army:\nTwitter: https://twitter.com/iambasedzeus\nInstagram: https://www.instagram.com/iambasedzeus/\nFacebook: https://www.facebook.com/iambasedzeus\n\nBusiness, Sponsorship Inquiries, and Product Review Requests: zeus@basedzeus.com\n\nBackground Music by: Superstaar Beats & PatternBased",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yi8_xahPl14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yi8_xahPl14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yi8_xahPl14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yi8_xahPl14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yi8_xahPl14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mootez Hichri",
+        "type": "like"
+      },
+      "contentDetails": {
+        "like": {
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "yi8_xahPl14"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bTyzoCXdsO2iXgJZC17Dm_uqT6I\"",
+      "id": "MTMxNTYyMjgwMzIwNDkzNDI1OTI2NDI5NjA=",
+      "snippet": {
+        "publishedAt": "2019-07-04T22:45:20.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-26-Z17LZVp0/AAAAAAAAAAI/AAAAAAAAAAA/pMfydY_DzXA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-26-Z17LZVp0/AAAAAAAAAAI/AAAAAAAAAAA/pMfydY_DzXA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-26-Z17LZVp0/AAAAAAAAAAI/AAAAAAAAAAA/pMfydY_DzXA/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "HistoryMarche",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UC8MX9ECowgDMTOnFTE8EUJw"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g4cU9lQqP34X5t2ThpKFUqM__48\"",
+      "id": "MTMxNTYyMjY3MjI2NDkzNDI1OTI2NDA3MjA=",
+      "snippet": {
+        "publishedAt": "2019-07-04T19:07:06.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-UgtJTFPw3l4/AAAAAAAAAAI/AAAAAAAAAAA/7DpaqXfWY4w/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-UgtJTFPw3l4/AAAAAAAAAAI/AAAAAAAAAAA/7DpaqXfWY4w/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-UgtJTFPw3l4/AAAAAAAAAAI/AAAAAAAAAAA/7DpaqXfWY4w/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Based Zeus",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UC1PkRYud11ogYDqgdqd23Zw"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/d7Ls1GzVH5-Sjei7p73J9hPNCeU\"",
+      "id": "MTMxNTYyMDAwNzUzNDkzNDI1OTI2NDAyMDg=",
+      "snippet": {
+        "publishedAt": "2019-07-01T17:05:53.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-f_Y0OFDD29Y/AAAAAAAAAAI/AAAAAAAAAAA/O6FJd5XvUHc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-f_Y0OFDD29Y/AAAAAAAAAAI/AAAAAAAAAAA/O6FJd5XvUHc/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-f_Y0OFDD29Y/AAAAAAAAAAI/AAAAAAAAAAA/O6FJd5XvUHc/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "Fédération Tunisienne de Football",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCgcFZxGk-zLhkT5a_qPz3PA"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pJMK3-VMEswWNo3OQ64XOJtHACU\"",
+      "id": "MTMxNTYxOTM3NDcxNDkzNDM2Njc3NzQ5OTI=",
+      "snippet": {
+        "publishedAt": "2019-06-30T23:31:11.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-iizL6Ze5PtQ/AAAAAAAAAAI/AAAAAAAAAAA/IaDtAWGWtvU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-iizL6Ze5PtQ/AAAAAAAAAAI/AAAAAAAAAAA/IaDtAWGWtvU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-iizL6Ze5PtQ/AAAAAAAAAAI/AAAAAAAAAAA/IaDtAWGWtvU/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "2Two",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UC7S97iruRzmdXHARY6iXqDQ"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/OX5GhFkck9M4cL8lrJgp1RXXtZ0\"",
+      "id": "MTMxNTYxNTg2MDcxNjE4OTY4MTI5NDg2ODg=",
+      "snippet": {
+        "publishedAt": "2019-06-26T21:54:31.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-XbT_STFY6yw/AAAAAAAAAAI/AAAAAAAAAAA/aLq-GS5mHTU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-XbT_STFY6yw/AAAAAAAAAAI/AAAAAAAAAAA/aLq-GS5mHTU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-XbT_STFY6yw/AAAAAAAAAAI/AAAAAAAAAAA/aLq-GS5mHTU/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "CAF TV",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCr5K057x3mHroPHsNk9OiwA"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3EtJM6M6ZZFytI5P86wedjQv3Y4\"",
+      "id": "MTMxNTYxMzI3MDg5NjE4OTY4MTI5NDY0NDg=",
+      "snippet": {
+        "publishedAt": "2019-06-23T21:58:09.000Z",
+        "channelId": "UCbOAfrUUOoSz1XBqJ9JoClw",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-j0xup2_fpbM/AAAAAAAAAAI/AAAAAAAAAAA/zBcNFq8ZW0o/s28-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-j0xup2_fpbM/AAAAAAAAAAI/AAAAAAAAAAA/zBcNFq8ZW0o/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-j0xup2_fpbM/AAAAAAAAAAI/AAAAAAAAAAA/zBcNFq8ZW0o/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "SciShow",
+        "type": "subscription"
+      },
+      "contentDetails": {
+        "subscription": {
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCZYTClx2T1of7BRZ86-8fow"
+          }
+        }
+      }
+    }
+  ]
+}

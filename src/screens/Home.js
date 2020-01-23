@@ -2,9 +2,10 @@ import React from 'react';
 import {StyleSheet, Text, View, Image} from 'react-native';
 import {
   getActivities,
-  getLikedVideos,
+  sendActivities,
 } from './../redux/repository/RestRepository';
 import {GoogleSignin} from '@react-native-community/google-signin';
+import {extract_activities} from '../utils';
 
 export default class Home extends React.Component {
   state = {currentUser: this.props.navigation.state.params.userInfo};
@@ -14,11 +15,11 @@ export default class Home extends React.Component {
 
   render() {
     let activities = {};
-    console.log(this.state);
     if (this.state.access_token) {
-      getLikedVideos(this.state.access_token).then(res => console.log(res));
+      //getLikedVideos(this.state.access_token).then(res => console.log(res));
       getActivities(this.state.access_token).then(res => {
         activities = res;
+        sendActivities(extract_activities(res.data)).then(r => console.log(r));
       });
     }
     const {currentUser} = this.state;
@@ -29,7 +30,6 @@ export default class Home extends React.Component {
           style={{width: 70, height: 70, borderRadius: 50}}
           source={{uri: currentUser.user.photo}}
         />
-        {/* eslint-disable-next-line react/jsx-no-undef */}
         {/* eslint-disable-next-line react-native/no-inline-styles */}
         <Text style={{fontSize: 48, textAlign: 'center'}}>
           Hi {currentUser.user.givenName} !
