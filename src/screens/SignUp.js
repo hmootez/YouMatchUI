@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import {Text, View} from 'react-native';
 import styles from '../components/Style';
 import {
@@ -7,11 +7,11 @@ import {
   statusCodes,
 } from '@react-native-community/google-signin';
 
-export default class SignUp extends React.Component {
-  state = {errorMessage: null};
+export default ({navigation}) => {
+  const [errorMessage] = useState(null);
+  const [userInfo, setUserInfo] = useState({});
 
-  async componentDidMount() {
-    //initial configuration
+  useEffect(() => {
     GoogleSignin.configure({
       //It is mandatory to call this method before attempting to call signIn()
       scopes: [
@@ -23,35 +23,19 @@ export default class SignUp extends React.Component {
         '849999105643-hbc6351r1u2j56maddjqkv70munen2b7.apps.googleusercontent.com',
       hostedDomain: '',
     });
-    // try {
-    //   const userInfo = await GoogleSignin.signInSilently().then(userInfo => {
-    //     this.setState({userInfo});
-    //     this.props.navigation.navigate('Home', {userInfo});
-    //   });
-    //   // eslint-disable-next-line react/no-did-mount-set-state
-    //   this.setState({userInfo});
-    // } catch (error) {
-    //   if (error.code === statusCodes.SIGN_IN_REQUIRED) {
-    //     // user has not signed in yet
-    //     this.props.navigation.navigate('SignUp');
-    //   } else {
-    //     // some other error
-    //     this.props.navigation.navigate('SignUp');
-    //   }
-    // }
-  }
+  }, []);
 
-  signIn = async () => {
+  const signIn = async () => {
     try {
       await GoogleSignin.hasPlayServices();
       await GoogleSignin.signIn()
         .then(userInfo => {
           console.log(userInfo);
-          this.setState({userInfo});
-          this.props.navigation.navigate('Home', {userInfo});
+          setUserInfo({userInfo});
+          navigation.navigate('Home', {userInfo});
         })
         .catch(e => console.log(e.code, e));
-      console.log(this.state);
+      console.log(userInfo);
       //this.props.navigation.navigate('Home', {userInfo});
     } catch (error) {
       if (error.code === statusCodes.SIGN_IN_CANCELLED) {
@@ -66,29 +50,25 @@ export default class SignUp extends React.Component {
     }
   };
 
-  render() {
-    return (
-      <View style={styles.container}>
-        {this.state.errorMessage && (
-          <Text style={{color: 'red'}}>{this.state.errorMessage}</Text>
-        )}
-        <GoogleSigninButton
-          style={{width: 192, height: 48}}
-          size={GoogleSigninButton.Size.Wide}
-          color={GoogleSigninButton.Color.Dark}
-          onPress={this.signIn}
-        />
-        <Text>
-          Already have an account ?{' '}
-          <Text
-            onPress={() => this.props.navigation.navigate('Login')}
-            color={'#e93766'}
-            style={{fontSize: 18}}>
-            {' '}
-            Login
-          </Text>{' '}
-        </Text>
-      </View>
-    );
-  }
-}
+  return (
+    <View style={styles.container}>
+      {errorMessage && <Text style={{color: 'red'}}>{errorMessage}</Text>}
+      <GoogleSigninButton
+        style={{width: 192, height: 48}}
+        size={GoogleSigninButton.Size.Wide}
+        color={GoogleSigninButton.Color.Dark}
+        onPress={signIn}
+      />
+      <Text>
+        Already have an account ?{' '}
+        <Text
+          onPress={() => navigation.navigate('Login')}
+          color={'#e93766'}
+          style={{fontSize: 18}}>
+          {' '}
+          Login
+        </Text>{' '}
+      </Text>
+    </View>
+  );
+};

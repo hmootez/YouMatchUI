@@ -1,0 +1,14 @@
+error :
+
+Error type 3 Error: Activity class {com.youmatch/com.youmatch.MainActivity} does not exist.
+
+solution :
+
+./gradlew uA in /YouMatchUI/android$
+
+
+Setup :
+
+npm i
+npm start
+npm run android-dev

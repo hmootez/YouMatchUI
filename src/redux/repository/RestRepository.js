@@ -3,7 +3,7 @@ import {returnData, returnError} from './repositoryUtils';
 
 const youTubeApi = 'https://www.googleapis.com/youtube/v3';
 
-const youMatchApi = 'http://192.168.1.89:8000';
+const youMatchFirebaseApi = 'http://192.168.1.89:8000';
 
 export const getLikedVideos = access_token => {
   return axios({
@@ -44,16 +44,16 @@ export const getActivities = access_token => {
     .catch(returnError);
 };
 
-export const sendActivities = data => {
-  return axios({
-    method: 'get',
-    headers: {
-      Accept: 'application/json',
-      'Content-Type': 'application/json',
-    },
-    url: `${youMatchApi}/activities/`,
-    data: JSON.stringify(data),
-  })
-    .then(returnData)
-    .catch(returnError);
-};
+// export const sendActivities = data => {
+//   return axios({
+//     method: 'get',
+//     headers: {
+//       Accept: 'application/json',
+//       'Content-Type': 'application/json',
+//     },
+//     url: `${youMatchApi}/activities/`,
+//     data: JSON.stringify(data),
+//   })
+//     .then(returnData)
+//     .catch(returnError);
+// };

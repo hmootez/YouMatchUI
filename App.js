@@ -6,7 +6,6 @@ import Loading from './src/screens/Loading';
 import SignUp from './src/screens/SignUp';
 import {createAppContainer} from 'react-navigation';
 import {createStackNavigator} from 'react-navigation-stack';
-import Login from './src/screens/Login';
 import 'react-native-gesture-handler';
 
 //import config from './src/common/constants.js';
@@ -18,7 +17,6 @@ const AppNavigator = createStackNavigator(
   {
     Home: {screen: Home},
     Loading: {screen: Loading},
-    Login: {screen: Login},
     SignUp: {screen: SignUp},
   },
   {initialRouteName: 'SignUp'},
