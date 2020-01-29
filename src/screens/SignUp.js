@@ -30,12 +30,10 @@ export default ({navigation}) => {
       await GoogleSignin.hasPlayServices();
       await GoogleSignin.signIn()
         .then(userInfo => {
-          console.log(userInfo);
           setUserInfo({userInfo});
           navigation.navigate('Home', {userInfo});
         })
         .catch(e => console.log(e.code, e));
-      console.log(userInfo);
       //this.props.navigation.navigate('Home', {userInfo});
     } catch (error) {
       if (error.code === statusCodes.SIGN_IN_CANCELLED) {
@@ -59,16 +57,6 @@ export default ({navigation}) => {
         color={GoogleSigninButton.Color.Dark}
         onPress={signIn}
       />
-      <Text>
-        Already have an account ?{' '}
-        <Text
-          onPress={() => navigation.navigate('Login')}
-          color={'#e93766'}
-          style={{fontSize: 18}}>
-          {' '}
-          Login
-        </Text>{' '}
-      </Text>
     </View>
   );
 };

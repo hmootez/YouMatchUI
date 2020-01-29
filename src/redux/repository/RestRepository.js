@@ -3,12 +3,48 @@ import {returnData, returnError} from './repositoryUtils';
 
 const youTubeApi = 'https://www.googleapis.com/youtube/v3';
 
-const youMatchFirebaseApi = 'http://192.168.1.89:8000';
+export const getAllLikedVideos = async accessToken => {
+  let pageToken = '';
+  let next = true;
+  let likedVideos = [];
+  while (next) {
+    await getLikedVideos(accessToken, pageToken).then(res => {
+      likedVideos = likedVideos.concat(res.data.items);
+      if (res.data.nextPageToken) {
+        next = true;
+        pageToken = res.data.nextPageToken;
+      } else {
+        next = false;
+      }
+    });
+  }
+  return likedVideos;
+};
 
-export const getLikedVideos = access_token => {
+export const getAllDislikedVideos = async accessToken => {
+  let pageToken = '';
+  let next = true;
+  let dislikedVideos = [];
+  while (next) {
+    await getDislikedVideos(accessToken, pageToken).then(res => {
+      dislikedVideos = dislikedVideos.concat(res.data.items);
+      if (res.data.nextPageToken) {
+        next = true;
+        pageToken = res.data.nextPageToken;
+      } else {
+        next = false;
+      }
+    });
+  }
+  return dislikedVideos;
+};
+
+export const getLikedVideos = (access_token, pageToken) => {
   return axios({
     method: 'get',
-    url: `${youTubeApi}/videos?part=snippet&myRating=like`,
+    url: `${youTubeApi}/videos?part=snippet&myRating=like${
+      pageToken ? '&pageToken=' + pageToken : ''
+    }&maxResults=50`,
     headers: {
       Authorization: `Bearer ${access_token}`,
       Accept: 'application/json',
@@ -18,10 +54,12 @@ export const getLikedVideos = access_token => {
     .catch(returnError);
 };
 
-export const getDislikedVideos = access_token => {
+export const getDislikedVideos = (access_token, pageToken) => {
   return axios({
     method: 'get',
-    url: `${youTubeApi}/videos?part=snippet&myRating=dislike`,
+    url: `${youTubeApi}/videos?part=snippet&myRating=dislike${
+      pageToken ? '&pageToken=' + pageToken : ''
+    }&maxResults=50`,
     headers: {
       Authorization: `Bearer ${access_token}`,
       Accept: 'application/json',
@@ -31,12 +69,32 @@ export const getDislikedVideos = access_token => {
     .catch(returnError);
 };
 
-export const getActivities = access_token => {
+export const getAllActivities = async accessToken => {
+  let pageToken = '';
+  let next = true;
+  let activities = [];
+  while (next) {
+    await getActivities(accessToken, pageToken).then(res => {
+      activities = activities.concat(res.data.items);
+      if (res.data.nextPageToken) {
+        next = true;
+        pageToken = res.data.nextPageToken;
+      } else {
+        next = false;
+      }
+    });
+  }
+  return activities;
+};
+
+export const getActivities = (accessToken, pageToken) => {
   return axios({
     method: 'get',
-    url: `${youTubeApi}/activities?part=snippet,contentDetails&maxResults=50&mine=true`,
+    url: `${youTubeApi}/activities?part=snippet,contentDetails${
+      pageToken ? '&pageToken=' + pageToken : ''
+    }&maxResults=50&mine=true`,
     headers: {
-      Authorization: `Bearer ${access_token}`,
+      Authorization: `Bearer ${accessToken}`,
       Accept: 'application/json',
     },
   })

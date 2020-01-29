@@ -1,4 +1,7 @@
-export const firebaseConfig = {
+import * as firebase from 'firebase';
+import firestore from 'firebase/firestore';
+
+const config = {
   apiKey: 'AIzaSyCRW_zGpP_xGM5ipJnf_F2ySTZwxI62o9s',
   authDomain: 'meetmenow-8a49f.firebaseapp.com',
   databaseURL: 'https://meetmenow-8a49f.firebaseio.com',
@@ -7,3 +10,6 @@ export const firebaseConfig = {
   messagingSenderId: '849999105643',
   appId: '1:849999105643:web:fa4c12bbe54de15927ab2e',
 };
+firebase.initializeApp(config);
+
+export default firebase;
