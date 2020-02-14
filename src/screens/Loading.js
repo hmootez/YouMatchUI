@@ -1,15 +1,8 @@
 import React, {useEffect} from 'react';
 import {View, Text, ActivityIndicator, StyleSheet} from 'react-native';
-import * as firebase from 'firebase';
+// import * as firebase from 'firebase';
 
 export default ({navigation}) => {
-  useEffect(() => {
-    firebase.auth().onAuthStateChanged(function(user) {
-      console.log(user);
-      navigation.navigate(user ? 'Home' : 'SignUp');
-    });
-  }, [navigation]);
-
   return (
     <View style={styles.container}>
       {/* eslint-disable-next-line react-native/no-inline-styles */}

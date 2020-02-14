@@ -4,7 +4,8 @@ Error type 3 Error: Activity class {com.youmatch/com.youmatch.MainActivity} does
 
 solution :
 
-./gradlew uA in /YouMatchUI/android$
+
+ in /YouMatchUI/android$
 
 
 Setup :
@@ -12,3 +13,10 @@ Setup :
 npm i
 npm start
 npm run android-dev
+
+
+
+error :
+Module `path` does not exist in the Haste module map
+solution :
+npm start -- --reset-cache
