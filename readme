@@ -12,3 +12,10 @@ Setup :
 npm i
 npm start
 npm run android-dev
+
+
+
+error :
+Module `path` does not exist in the Haste module map
+solution :
+npm start -- --reset-cache
